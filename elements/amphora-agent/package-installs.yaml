@@ -1,5 +1,5 @@
 amphora-agent:
-  installtype: package
+  installtype: source
 build-essential:
   installtype: source
 libffi-dev:
